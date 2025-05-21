@@ -1,4 +1,5 @@
 led.plot(4,4)
+led.plot(3'1)
 led.plot(4, 3)
 led.plot(4, 2)
 led.plot(4, 1)
